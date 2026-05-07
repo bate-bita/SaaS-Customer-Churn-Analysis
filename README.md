@@ -26,14 +26,6 @@ The dataset was generated in Python using realistic business logic and narrative
 
 **Key fields:** customer_id, company_name, company_size, subscription_plan, contract_type, monthly_recurring_revenue, signup_date, churn_date, churned, tenure_months, support_tickets_raised, nps_score, last_login_days_ago, cohort_month
 
-**Narrative patterns engineered into the data:**
-- Basic plan customers churn at 57% vs Enterprise at only 11%
-- Monthly contract customers churn at nearly 4x the rate of annual customers
-- Q3 (July to September) is the peak churn period with July recording the highest single-month churn
-- Churned customers average an NPS score of 3.24 vs 6.98 for active customers
-- Churned customers raise an average of 5.62 support tickets vs 2.12 for active customers
-- Short tenure customers (under 3 months) churn disproportionately, signaling an onboarding problem
-
 ---
 
 ## SQL Analysis
