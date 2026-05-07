@@ -127,9 +127,7 @@ Segment-level breakdown of churn behavior. Includes NPS comparison between churn
 
 **Python:** pandas, numpy, sqlite3, datetime, random, reproducible dataset generation with engineered narrative patterns
 
----
 
-## Repository Structure
 
 ---
 
@@ -137,6 +135,6 @@ Segment-level breakdown of churn behavior. Includes NPS comparison between churn
 
 **Bate Bita Tambe**
 
-Financial and Business Intelligence Analyst | SQL | Power BI | Python | SAP Analytics Cloud
+Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/bate-bita-tambe) | [GitHub](https://github.com/bate-bita)
+[LinkedIn](https://www.linkedin.com/in/bate-bita-tambe) 
