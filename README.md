@@ -45,28 +45,28 @@ The dataset was generated in Python using realistic business logic and narrative
 ### Query 1: Monthly Churn Trend
 Tracks how many customers churned each month to identify peak churn periods and seasonal patterns.
 
-![Query 1 Results](query_results/Monthly_Churn_Trend.png)
+![Query 1 Results](Query_Results/Monthly_Churn_Trend.png)
 
 ### Query 2: Churn Rate by Subscription Plan
 Identifies which subscription plan carries the highest churn risk and quantifies revenue exposure per plan.
 
-![Query 2 Results](query_results/Churn_Rate_by_Subscription_Plan.png)
+![Query 2 Results](Query_Results/Churn_Rate_by_Subscription_Plan.png)
 
 ### Query 3: Churned MRR by Customer Segment
 Breaks down total and average MRR lost by company size to identify which segment causes the most financial damage when customers leave.
 
-![Query 3 Results](query_results/Churned_MRR_by_Customer_Segment.png)
+![Query 3 Results](Query_Results/Churned_MRR_by_Customer_Segment.png)
 
 ### Query 4: High Churn Risk Customers (CTE)
 Uses a Common Table Expression to build a behavioral risk scoring model that flags currently active customers showing the same warning signs as customers who already churned. Risk scores are based on five signals: high support ticket volume, low NPS score, recent login inactivity, short tenure, and monthly contract type. Outputs a prioritized retention action list.
 
-![Query 4 Results Part 1](query_results/High_Churn_Risk_Customers__CTE__-_1.png)
-![Query 4 Results Part 2](query_results/High_Churn_Risk_Customers__CTE__-_2.png)
+![Query 4 Results Part 1](Query_Results/High_Churn_Risk_Customers__CTE__-_1.png)
+![Query 4 Results Part 2](Query_Results/High_Churn_Risk_Customers__CTE__-_2.png)
 
 ### Query 5: Top Customers by MRR Using RANK()
 Uses a window function to rank all customers by monthly recurring revenue, identifying the highest-value accounts the retention team should prioritize before they churn.
 
-![Query 5 Results](query_results/Top_Customers_by_MRR_Using_RANK__.png)
+![Query 5 Results](Query_Results/Top_Customers_by_MRR_Using_RANK__.png)
 
 ---
 
@@ -81,17 +81,17 @@ Uses a window function to rank all customers by monthly recurring revenue, ident
 ### Page 1: Churn Overview
 High-level summary of churn volume, rate, and revenue split. Includes monthly churn trend, churn rate by subscription plan, churn rate by contract type, and a revenue split donut chart showing active vs churned MRR.
 
-![Page 1](dashboard_screenshots/page1_churn_overview.png)
+![Page 1](Power BI Screenshots/page1_churn_overview.png)
 
 ### Page 2: Revenue Impact
 Financial deep-dive into MRR loss. Includes total MRR, churned MRR, and active customer KPIs, a monthly MRR loss column chart, churned MRR by customer segment, a monthly MRR loss waterfall chart, and a top 10 churned customers table ranked by revenue.
 
-![Page 2](dashboard_screenshots/page2_revenue_impact.png)
+![Page 2](Power BI Screenshots/page2_revenue_impact.png)
 
 ### Page 3: Customer Segment Analysis
 Segment-level breakdown of churn behavior. Includes NPS comparison between churned and active customers, churn rate by company size, churn rate by contract type, customer distribution by segment, and average support tickets for churned vs active customers.
 
-![Page 3](dashboard_screenshots/page3_customer_segments.png)
+![Page 3](Power BI Screenshots/page3_customer_segments.png)
 
 ---
 
