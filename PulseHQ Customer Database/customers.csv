@@ -1,0 +1,501 @@
+customer_id,company_name,industry,company_size,subscription_plan,contract_type,monthly_recurring_revenue,signup_date,churn_date,churned,tenure_months,support_tickets_raised,last_login_days_ago,nps_score,cohort_month
+CUST-0001,Global Technologies,Education,Enterprise,Enterprise,Annual,1777.33,2024-05-21,,0,7,1,4,9,2024-05
+CUST-0002,Swift Ventures,Technology,Enterprise,Enterprise,Monthly,3190.75,2024-01-04,,0,12,1,2,8,2024-01
+CUST-0003,Rapid Group,Education,Small,Basic,Monthly,117.74,2024-04-01,2024-09-20,1,9,5,113,8,2024-04
+CUST-0004,Arc Consulting,Technology,Mid-Market,Basic,Monthly,239.26,2024-01-21,2024-12-15,1,11,6,43,4,2024-01
+CUST-0005,Hyper Technologies,Finance,Small,Professional,Monthly,901.91,2024-06-25,,0,6,2,6,5,2024-06
+CUST-0006,Lumix Consulting,Healthcare,Mid-Market,Enterprise,Annual,2340.49,2024-12-25,,0,1,2,2,7,2024-12
+CUST-0007,Core Networks,Retail,Small,Basic,Monthly,151.9,2024-03-20,2024-07-15,1,9,6,213,4,2024-03
+CUST-0008,Swift Group,Education,Mid-Market,Basic,Monthly,209.41,2024-09-03,2024-10-20,1,3,5,105,5,2024-09
+CUST-0009,Bright Consulting,Finance,Mid-Market,Enterprise,Annual,1613.56,2024-09-03,,0,3,0,5,8,2024-09
+CUST-0010,Bold Partners,Finance,Mid-Market,Professional,Annual,549.5,2024-07-28,,0,5,1,11,8,2024-07
+CUST-0011,Edge Dynamics,Education,Small,Basic,Monthly,170.05,2024-02-12,,0,10,2,12,9,2024-02
+CUST-0012,Echo Labs,Retail,Small,Basic,Monthly,220.83,2024-03-03,2024-11-24,1,10,10,62,2,2024-03
+CUST-0013,Global Dynamics,Healthcare,Small,Professional,Annual,993.76,2024-03-09,,0,9,0,9,3,2024-03
+CUST-0014,Arc Partners,Retail,Small,Basic,Annual,252.66,2024-03-27,2024-07-27,1,9,8,169,4,2024-03
+CUST-0015,Drift Innovations,Healthcare,Mid-Market,Professional,Monthly,532.09,2024-01-09,,0,11,2,10,7,2024-01
+CUST-0016,Orbit Technologies,Healthcare,Small,Basic,Annual,230.09,2024-12-07,,0,1,2,11,5,2024-12
+CUST-0017,Xcel Analytics,Retail,Mid-Market,Professional,Monthly,622.31,2024-08-05,,0,4,2,5,7,2024-08
+CUST-0018,Peak Systems,Real Estate,Small,Basic,Monthly,178.88,2024-08-19,2024-11-05,1,4,5,98,2,2024-08
+CUST-0019,Arc Dynamics,Retail,Enterprise,Enterprise,Annual,3651.76,2024-02-02,,0,11,4,3,7,2024-02
+CUST-0020,Quantum Corp,Manufacturing,Small,Professional,Annual,530.76,2024-04-20,,0,8,3,8,8,2024-04
+CUST-0021,Vertex Networks,Manufacturing,Enterprise,Enterprise,Monthly,3855.08,2024-02-28,,0,10,0,2,7,2024-02
+CUST-0022,Innov Ventures,Finance,Mid-Market,Professional,Annual,632.41,2024-09-25,,0,3,1,2,5,2024-09
+CUST-0023,Hyper Digital,Real Estate,Mid-Market,Enterprise,Annual,1507.11,2024-09-15,,0,3,1,12,5,2024-09
+CUST-0024,Innov Consulting,Education,Enterprise,Enterprise,Annual,2768.2,2024-03-06,,0,10,4,11,6,2024-03
+CUST-0025,Rapid Services,Manufacturing,Mid-Market,Professional,Monthly,803.49,2024-03-17,2024-09-25,1,9,5,117,3,2024-03
+CUST-0026,Edge Partners,Real Estate,Enterprise,Enterprise,Annual,2996.36,2024-12-01,,0,1,2,2,8,2024-12
+CUST-0027,Bright Innovations,Retail,Mid-Market,Enterprise,Annual,2267.79,2024-02-26,2024-08-19,1,10,7,149,1,2024-02
+CUST-0028,Delta Technologies,Education,Mid-Market,Enterprise,Annual,1672.03,2024-04-27,,0,8,4,13,9,2024-04
+CUST-0029,Crest Analytics,Retail,Mid-Market,Enterprise,Annual,3866.12,2024-09-16,,0,3,1,9,6,2024-09
+CUST-0030,Fusion Innovations,Healthcare,Small,Basic,Monthly,284.78,2024-06-07,,0,6,0,12,7,2024-06
+CUST-0031,Drift Digital,Retail,Mid-Market,Professional,Monthly,996.57,2024-01-13,,0,11,2,8,6,2024-01
+CUST-0032,Global Analytics,Finance,Small,Basic,Monthly,148.58,2024-01-04,2024-09-01,1,12,6,166,3,2024-01
+CUST-0033,Bright Networks,Technology,Enterprise,Enterprise,Annual,1676.48,2024-01-01,,0,12,1,4,6,2024-01
+CUST-0034,Vertex Labs,Finance,Mid-Market,Professional,Monthly,664.21,2024-07-28,,0,5,4,5,6,2024-07
+CUST-0035,Swift Labs,Finance,Small,Professional,Monthly,565.16,2024-03-18,,0,9,0,10,8,2024-03
+CUST-0036,Vertex Ventures,Healthcare,Small,Basic,Monthly,193.59,2024-06-26,2024-07-04,1,6,5,196,4,2024-06
+CUST-0037,Vertex Dynamics,Education,Small,Professional,Annual,704.55,2024-08-14,,0,4,1,1,7,2024-08
+CUST-0038,Crest Systems,Finance,Enterprise,Enterprise,Annual,1650.53,2024-07-04,,0,6,4,13,7,2024-07
+CUST-0039,Echo Corp,Retail,Enterprise,Professional,Monthly,594.1,2024-12-07,,0,1,0,7,6,2024-12
+CUST-0040,Core Solutions,Education,Mid-Market,Basic,Annual,273.9,2024-04-08,2024-07-26,1,8,7,203,3,2024-04
+CUST-0041,Crest Group,Finance,Mid-Market,Enterprise,Annual,3589.07,2024-09-18,,0,3,2,13,9,2024-09
+CUST-0042,Drift Solutions,Finance,Small,Professional,Annual,741.82,2024-09-14,,0,3,3,7,6,2024-09
+CUST-0043,Arc Labs,Healthcare,Enterprise,Professional,Monthly,500.08,2024-01-13,,0,11,5,13,9,2024-01
+CUST-0044,Rapid Dynamics,Education,Mid-Market,Professional,Monthly,847.3,2024-09-14,,0,3,1,13,5,2024-09
+CUST-0045,Nova Innovations,Healthcare,Small,Professional,Monthly,576.4,2024-07-16,2024-08-02,1,5,4,195,2,2024-07
+CUST-0046,Echo Solutions,Manufacturing,Mid-Market,Basic,Monthly,109.03,2024-10-02,2024-12-28,1,3,8,46,3,2024-10
+CUST-0047,Metro Systems,Manufacturing,Small,Professional,Monthly,924.67,2024-07-03,2024-09-03,1,6,2,144,5,2024-07
+CUST-0048,Vertex Analytics,Manufacturing,Enterprise,Enterprise,Annual,2946.3,2024-07-08,2024-11-03,1,5,4,94,4,2024-07
+CUST-0049,Global Corp,Retail,Small,Enterprise,Monthly,2289.92,2024-11-17,2024-12-22,1,1,8,39,3,2024-11
+CUST-0050,Apex Labs,Manufacturing,Small,Basic,Monthly,233.34,2024-08-05,2024-09-11,1,4,9,125,5,2024-08
+CUST-0051,Drift Systems,Finance,Mid-Market,Enterprise,Annual,3989.24,2024-11-19,2024-12-07,1,1,4,66,5,2024-11
+CUST-0052,Wave Corp,Manufacturing,Small,Basic,Monthly,156.0,2024-12-12,,0,1,4,9,6,2024-12
+CUST-0053,Innov Networks,Education,Small,Professional,Annual,825.99,2024-03-26,2024-12-27,1,9,10,49,5,2024-03
+CUST-0054,Xcel Digital,Finance,Small,Basic,Monthly,286.79,2024-04-04,2024-10-04,1,9,7,104,6,2024-04
+CUST-0055,Crest Corp,Manufacturing,Mid-Market,Professional,Monthly,639.88,2024-09-09,2024-10-11,1,3,3,104,5,2024-09
+CUST-0056,Bright Dynamics,Retail,Small,Professional,Monthly,624.56,2024-04-16,,0,8,3,1,7,2024-04
+CUST-0057,Ultra Corp,Finance,Small,Basic,Monthly,154.34,2024-11-27,2024-12-25,1,1,4,24,1,2024-11
+CUST-0058,Apex Systems,Technology,Enterprise,Enterprise,Annual,2603.59,2024-04-24,,0,8,1,9,8,2024-04
+CUST-0059,Swift Digital,Finance,Small,Basic,Monthly,279.79,2024-01-23,2024-03-27,1,11,4,312,3,2024-01
+CUST-0060,Drift Partners,Finance,Mid-Market,Basic,Annual,124.49,2024-10-14,2024-12-26,1,2,4,17,3,2024-10
+CUST-0061,Drift Consulting,Retail,Small,Basic,Monthly,148.91,2024-03-22,2024-07-25,1,9,4,204,3,2024-03
+CUST-0062,Crest Technologies,Real Estate,Small,Basic,Monthly,248.9,2024-07-20,,0,5,1,4,8,2024-07
+CUST-0063,Arc Networks,Retail,Small,Basic,Monthly,134.41,2024-05-26,2024-08-06,1,7,6,178,7,2024-05
+CUST-0064,Echo Services,Education,Small,Basic,Monthly,232.98,2024-09-26,2024-10-08,1,3,6,111,5,2024-09
+CUST-0065,Fusion Consulting,Retail,Small,Basic,Monthly,175.51,2024-02-04,2024-07-16,1,11,6,192,4,2024-02
+CUST-0066,Global Solutions,Education,Mid-Market,Professional,Monthly,651.6,2024-11-12,,0,1,4,4,7,2024-11
+CUST-0067,Lumix Dynamics,Manufacturing,Small,Basic,Monthly,178.69,2024-10-07,2024-11-03,1,2,5,85,8,2024-10
+CUST-0068,Drift Corp,Finance,Small,Basic,Monthly,234.9,2024-01-13,,0,11,3,6,5,2024-01
+CUST-0069,Lumix Innovations,Real Estate,Mid-Market,Professional,Monthly,980.27,2024-09-19,2024-11-04,1,3,8,94,4,2024-09
+CUST-0070,Metro Networks,Manufacturing,Small,Professional,Monthly,717.2,2024-10-11,,0,2,1,2,9,2024-10
+CUST-0071,Quantum Networks,Real Estate,Mid-Market,Professional,Monthly,626.36,2024-10-07,,0,2,3,1,6,2024-10
+CUST-0072,Vertex Group,Healthcare,Mid-Market,Professional,Monthly,842.43,2024-04-18,,0,8,4,12,4,2024-04
+CUST-0073,Titan Partners,Education,Enterprise,Enterprise,Annual,1673.93,2024-02-14,,0,10,1,6,8,2024-02
+CUST-0074,Innov Dynamics,Retail,Mid-Market,Basic,Monthly,123.93,2024-11-28,,0,1,2,9,10,2024-11
+CUST-0075,Fusion Ventures,Education,Mid-Market,Enterprise,Annual,2505.0,2024-07-11,,0,5,1,3,9,2024-07
+CUST-0076,Swift Corp,Retail,Small,Professional,Annual,837.66,2024-02-13,,0,10,3,10,6,2024-02
+CUST-0077,Nexus Services,Manufacturing,Small,Professional,Annual,915.86,2024-04-18,,0,8,3,4,7,2024-04
+CUST-0078,Quantum Labs,Real Estate,Small,Professional,Annual,826.35,2024-08-20,,0,4,4,8,10,2024-08
+CUST-0079,Quantum Dynamics,Education,Mid-Market,Professional,Annual,866.98,2024-07-26,,0,5,3,5,7,2024-07
+CUST-0080,Innov Group,Real Estate,Small,Basic,Monthly,166.04,2024-07-20,,0,5,1,13,9,2024-07
+CUST-0081,Orbit Ventures,Education,Small,Basic,Annual,128.47,2024-04-07,2024-07-16,1,8,5,182,3,2024-04
+CUST-0082,Metro Group,Finance,Enterprise,Enterprise,Annual,1985.09,2024-05-19,,0,7,1,8,5,2024-05
+CUST-0083,Zenith Networks,Technology,Small,Enterprise,Monthly,3218.06,2024-08-21,,0,4,1,14,7,2024-08
+CUST-0084,Orbit Solutions,Manufacturing,Small,Professional,Monthly,711.57,2024-07-25,2024-12-23,1,5,2,51,3,2024-07
+CUST-0085,Vertex Digital,Manufacturing,Mid-Market,Basic,Annual,282.49,2024-06-08,2024-08-05,1,6,5,187,0,2024-06
+CUST-0086,Titan Consulting,Education,Small,Basic,Monthly,162.46,2024-08-20,,0,4,2,8,6,2024-08
+CUST-0087,Drift Technologies,Education,Small,Basic,Monthly,184.35,2024-03-17,,0,9,0,8,6,2024-03
+CUST-0088,Zenith Services,Manufacturing,Small,Basic,Monthly,193.93,2024-08-28,2024-11-08,1,4,7,80,4,2024-08
+CUST-0089,Kore Partners,Manufacturing,Small,Basic,Monthly,224.35,2024-01-16,2024-08-03,1,11,7,178,1,2024-01
+CUST-0090,Delta Innovations,Finance,Small,Basic,Annual,126.67,2024-07-03,,0,6,1,12,10,2024-07
+CUST-0091,Nexus Solutions,Finance,Small,Professional,Annual,706.43,2024-11-03,,0,1,1,8,7,2024-11
+CUST-0092,Wave Solutions,Real Estate,Small,Basic,Annual,183.03,2024-08-27,,0,4,2,10,4,2024-08
+CUST-0093,Innov Services,Retail,Small,Professional,Monthly,786.85,2024-03-25,,0,9,2,6,9,2024-03
+CUST-0094,Xcel Innovations,Manufacturing,Small,Basic,Annual,277.33,2024-03-28,,0,9,4,9,8,2024-03
+CUST-0095,Nexus Labs,Technology,Small,Basic,Monthly,219.65,2024-11-26,2024-12-08,1,1,4,50,0,2024-11
+CUST-0096,Xcel Technologies,Real Estate,Mid-Market,Professional,Annual,667.06,2024-04-13,,0,8,4,7,6,2024-04
+CUST-0097,Apex Networks,Retail,Small,Basic,Monthly,282.91,2024-01-15,,0,11,2,9,6,2024-01
+CUST-0098,Delta Consulting,Retail,Mid-Market,Professional,Annual,781.2,2024-01-19,2024-07-21,1,11,7,200,3,2024-01
+CUST-0099,Orbit Partners,Healthcare,Small,Enterprise,Annual,1624.71,2024-11-06,,0,1,1,4,8,2024-11
+CUST-0100,Nexus Corp,Real Estate,Mid-Market,Professional,Annual,938.82,2024-10-25,,0,2,1,14,8,2024-10
+CUST-0101,Lumix Group,Education,Enterprise,Enterprise,Monthly,2674.77,2024-03-03,,0,10,2,1,8,2024-03
+CUST-0102,Apex Group,Finance,Mid-Market,Professional,Annual,889.62,2024-01-03,,0,12,5,13,7,2024-01
+CUST-0103,Vertex Systems,Manufacturing,Small,Basic,Monthly,103.08,2024-10-27,2024-11-05,1,2,4,96,4,2024-10
+CUST-0104,Titan Analytics,Education,Small,Basic,Annual,192.01,2024-10-07,2024-12-12,1,2,3,39,0,2024-10
+CUST-0105,Core Analytics,Technology,Small,Professional,Annual,556.27,2024-11-23,,0,1,3,5,10,2024-11
+CUST-0106,Metro Innovations,Finance,Enterprise,Enterprise,Annual,2938.49,2024-11-10,,0,1,2,7,6,2024-11
+CUST-0107,Core Innovations,Real Estate,Small,Basic,Monthly,217.42,2024-02-03,,0,11,1,4,4,2024-02
+CUST-0108,Arc Analytics,Real Estate,Small,Professional,Annual,924.15,2024-08-10,,0,4,0,2,5,2024-08
+CUST-0109,Bright Digital,Education,Enterprise,Enterprise,Annual,2367.01,2024-05-02,,0,8,1,6,7,2024-05
+CUST-0110,Nexus Partners,Education,Small,Basic,Monthly,101.53,2024-08-11,2024-09-16,1,4,6,122,4,2024-08
+CUST-0111,Titan Services,Manufacturing,Small,Basic,Annual,190.95,2024-12-27,,0,1,1,3,6,2024-12
+CUST-0112,Kore Consulting,Finance,Small,Basic,Monthly,195.7,2024-03-25,2024-05-24,1,9,9,248,4,2024-03
+CUST-0113,Zenith Labs,Manufacturing,Small,Basic,Monthly,285.92,2024-05-27,2024-08-15,1,7,3,163,3,2024-05
+CUST-0114,Crest Partners,Finance,Mid-Market,Enterprise,Annual,3169.47,2024-06-20,,0,6,2,8,9,2024-06
+CUST-0115,Hyper Networks,Manufacturing,Mid-Market,Professional,Annual,605.06,2024-11-16,,0,1,6,6,7,2024-11
+CUST-0116,Fusion Systems,Finance,Mid-Market,Basic,Annual,275.02,2024-04-23,,0,8,2,9,7,2024-04
+CUST-0117,Wave Labs,Education,Mid-Market,Enterprise,Annual,2515.07,2024-04-24,,0,8,2,4,7,2024-04
+CUST-0118,Lumix Labs,Manufacturing,Small,Enterprise,Annual,2726.05,2024-10-23,,0,2,2,2,7,2024-10
+CUST-0119,Hyper Corp,Healthcare,Mid-Market,Basic,Monthly,167.75,2024-12-17,,0,1,1,9,4,2024-12
+CUST-0120,Zenith Innovations,Finance,Small,Professional,Annual,559.33,2024-08-08,,0,4,2,2,8,2024-08
+CUST-0121,Titan Corp,Technology,Small,Basic,Monthly,142.28,2024-09-07,2024-11-24,1,3,7,80,4,2024-09
+CUST-0122,Apex Innovations,Manufacturing,Small,Basic,Monthly,137.82,2024-03-27,2024-07-06,1,9,7,207,5,2024-03
+CUST-0123,Innov Innovations,Finance,Small,Professional,Monthly,636.16,2024-12-05,,0,1,1,9,5,2024-12
+CUST-0124,Apex Analytics,Healthcare,Small,Enterprise,Monthly,3670.15,2024-11-21,,0,1,6,14,9,2024-11
+CUST-0125,Hyper Consulting,Retail,Enterprise,Enterprise,Annual,2695.79,2024-01-16,,0,11,1,1,8,2024-01
+CUST-0126,Innov Systems,Finance,Small,Basic,Monthly,263.42,2024-05-04,2024-09-03,1,8,4,132,2,2024-05
+CUST-0127,Zenith Digital,Retail,Small,Basic,Monthly,210.61,2024-01-04,2024-06-20,1,12,5,218,3,2024-01
+CUST-0128,Innov Analytics,Manufacturing,Mid-Market,Professional,Monthly,953.25,2024-08-15,2024-09-19,1,4,3,140,1,2024-08
+CUST-0129,Fusion Dynamics,Finance,Small,Basic,Monthly,220.93,2024-01-02,,0,12,2,13,9,2024-01
+CUST-0130,Rapid Systems,Finance,Enterprise,Professional,Annual,829.21,2024-01-09,,0,11,4,3,8,2024-01
+CUST-0131,Innov Solutions,Finance,Small,Professional,Annual,703.26,2024-10-01,,0,3,3,8,6,2024-10
+CUST-0132,Global Networks,Healthcare,Small,Basic,Annual,240.39,2024-01-10,,0,11,2,8,7,2024-01
+CUST-0133,Edge Group,Retail,Mid-Market,Professional,Monthly,894.62,2024-02-26,,0,10,2,13,5,2024-02
+CUST-0134,Bright Solutions,Finance,Small,Basic,Monthly,207.91,2024-09-04,2024-11-09,1,3,7,71,4,2024-09
+CUST-0135,Edge Corp,Retail,Mid-Market,Professional,Annual,652.81,2024-11-26,,0,1,4,10,8,2024-11
+CUST-0136,Rapid Labs,Retail,Mid-Market,Professional,Annual,733.35,2024-03-04,,0,10,0,7,7,2024-03
+CUST-0137,Kore Analytics,Healthcare,Enterprise,Professional,Monthly,798.02,2024-09-03,,0,3,3,12,8,2024-09
+CUST-0138,Swift Solutions,Real Estate,Small,Basic,Monthly,117.27,2024-06-01,,0,7,1,14,6,2024-06
+CUST-0139,Zenith Technologies,Retail,Small,Basic,Monthly,263.28,2024-12-22,,0,1,1,13,7,2024-12
+CUST-0140,Ultra Consulting,Retail,Small,Basic,Monthly,229.3,2024-03-17,,0,9,2,3,8,2024-03
+CUST-0141,Kore Ventures,Education,Mid-Market,Professional,Monthly,734.01,2024-03-03,,0,10,1,6,8,2024-03
+CUST-0142,Nova Labs,Technology,Mid-Market,Enterprise,Annual,2219.54,2024-06-16,,0,6,2,14,9,2024-06
+CUST-0143,Crest Digital,Real Estate,Small,Basic,Annual,149.48,2024-03-11,2024-04-25,1,9,5,285,3,2024-03
+CUST-0144,Fusion Digital,Healthcare,Small,Basic,Monthly,230.53,2024-11-01,2024-12-14,1,2,2,30,4,2024-11
+CUST-0145,Nova Group,Healthcare,Small,Basic,Annual,250.29,2024-09-20,,0,3,0,13,6,2024-09
+CUST-0146,Ultra Analytics,Real Estate,Small,Basic,Annual,125.2,2024-11-18,2024-12-23,1,1,7,49,6,2024-11
+CUST-0147,Nexus Systems,Finance,Small,Basic,Monthly,240.96,2024-08-08,2024-11-01,1,4,5,105,4,2024-08
+CUST-0148,Delta Labs,Education,Mid-Market,Enterprise,Annual,3781.32,2024-07-27,,0,5,3,2,8,2024-07
+CUST-0149,Peak Group,Retail,Small,Professional,Monthly,753.44,2024-10-10,2024-12-27,1,2,1,44,1,2024-10
+CUST-0150,Xcel Networks,Finance,Small,Basic,Monthly,127.93,2024-09-18,2024-10-20,1,3,5,114,0,2024-09
+CUST-0151,Edge Services,Manufacturing,Enterprise,Enterprise,Annual,1673.53,2024-05-28,,0,7,0,14,5,2024-05
+CUST-0152,Bold Analytics,Manufacturing,Mid-Market,Professional,Annual,909.27,2024-05-09,,0,7,4,5,5,2024-05
+CUST-0153,Lumix Partners,Manufacturing,Small,Basic,Annual,196.93,2024-03-22,2024-07-18,1,9,4,206,0,2024-03
+CUST-0154,Wave Group,Manufacturing,Small,Professional,Annual,770.72,2024-04-25,,0,8,3,6,7,2024-04
+CUST-0155,Kore Innovations,Retail,Small,Basic,Monthly,145.71,2024-05-13,,0,7,1,1,6,2024-05
+CUST-0156,Ultra Technologies,Retail,Small,Enterprise,Annual,3782.58,2024-07-23,,0,5,2,11,7,2024-07
+CUST-0157,Crest Consulting,Retail,Enterprise,Enterprise,Annual,1814.62,2024-08-02,,0,5,2,6,5,2024-08
+CUST-0158,Delta Ventures,Real Estate,Enterprise,Enterprise,Monthly,2813.88,2024-10-04,,0,2,3,12,10,2024-10
+CUST-0159,Wave Ventures,Education,Small,Basic,Monthly,292.99,2024-08-21,2024-10-26,1,4,4,92,3,2024-08
+CUST-0160,Rapid Ventures,Healthcare,Small,Basic,Monthly,269.35,2024-08-03,,0,5,3,14,7,2024-08
+CUST-0161,Nova Analytics,Technology,Small,Basic,Monthly,242.74,2024-09-21,2024-11-28,1,3,5,77,1,2024-09
+CUST-0162,Xcel Systems,Retail,Small,Basic,Monthly,225.23,2024-04-08,,0,8,2,4,6,2024-04
+CUST-0163,Nova Partners,Real Estate,Mid-Market,Professional,Monthly,879.18,2024-11-04,,0,1,4,2,7,2024-11
+CUST-0164,Global Digital,Retail,Mid-Market,Enterprise,Monthly,2232.42,2024-01-02,,0,12,2,3,10,2024-01
+CUST-0165,Metro Analytics,Education,Small,Professional,Monthly,839.9,2024-01-19,2024-09-06,1,11,9,131,2,2024-01
+CUST-0166,Orbit Dynamics,Healthcare,Small,Professional,Annual,747.83,2024-09-08,,0,3,1,4,7,2024-09
+CUST-0167,Echo Systems,Retail,Small,Basic,Monthly,150.07,2024-04-15,2024-12-26,1,8,10,44,2,2024-04
+CUST-0168,Orbit Consulting,Healthcare,Enterprise,Enterprise,Annual,3968.13,2024-11-12,,0,1,1,7,9,2024-11
+CUST-0169,Global Ventures,Manufacturing,Small,Basic,Monthly,298.87,2024-05-07,,0,7,3,2,10,2024-05
+CUST-0170,Apex Consulting,Education,Small,Basic,Monthly,213.96,2024-10-12,,0,2,1,5,7,2024-10
+CUST-0171,Nova Networks,Manufacturing,Small,Basic,Annual,153.9,2024-01-13,,0,11,3,11,3,2024-01
+CUST-0172,Fusion Analytics,Healthcare,Mid-Market,Professional,Annual,747.36,2024-02-24,,0,10,1,5,7,2024-02
+CUST-0173,Bold Technologies,Education,Mid-Market,Professional,Monthly,876.79,2024-01-22,,0,11,1,11,6,2024-01
+CUST-0174,Delta Systems,Healthcare,Small,Basic,Monthly,279.68,2024-02-04,,0,11,0,5,6,2024-02
+CUST-0175,Arc Digital,Healthcare,Enterprise,Enterprise,Annual,3367.7,2024-06-11,,0,6,2,3,5,2024-06
+CUST-0176,Edge Consulting,Retail,Small,Basic,Monthly,199.36,2024-11-17,2024-12-06,1,1,4,51,3,2024-11
+CUST-0177,Core Labs,Technology,Small,Basic,Annual,158.03,2024-06-26,,0,6,1,13,6,2024-06
+CUST-0178,Crest Services,Manufacturing,Small,Professional,Monthly,876.08,2024-07-05,2024-09-22,1,5,6,135,3,2024-07
+CUST-0179,Vertex Innovations,Education,Enterprise,Enterprise,Annual,1724.76,2024-10-12,,0,2,2,5,8,2024-10
+CUST-0180,Core Dynamics,Finance,Enterprise,Enterprise,Annual,2960.4,2024-01-09,,0,11,4,6,6,2024-01
+CUST-0181,Kore Networks,Manufacturing,Small,Professional,Annual,511.51,2024-06-16,,0,6,1,9,7,2024-06
+CUST-0182,Edge Innovations,Healthcare,Small,Basic,Annual,228.53,2024-01-08,,0,11,2,8,6,2024-01
+CUST-0183,Core Group,Manufacturing,Mid-Market,Professional,Monthly,703.15,2024-04-21,2024-06-02,1,8,4,241,5,2024-04
+CUST-0184,Nexus Analytics,Education,Small,Basic,Monthly,176.73,2024-08-05,2024-10-24,1,4,7,112,2,2024-08
+CUST-0185,Bold Labs,Manufacturing,Mid-Market,Professional,Annual,576.26,2024-08-24,,0,4,1,2,8,2024-08
+CUST-0186,Fusion Labs,Retail,Small,Basic,Monthly,286.81,2024-03-14,2024-09-23,1,9,6,132,3,2024-03
+CUST-0187,Rapid Networks,Education,Enterprise,Enterprise,Annual,3637.63,2024-10-08,2024-11-22,1,2,10,72,3,2024-10
+CUST-0188,Orbit Systems,Education,Mid-Market,Professional,Annual,529.28,2024-09-12,,0,3,4,2,7,2024-09
+CUST-0189,Nova Services,Healthcare,Mid-Market,Professional,Annual,819.85,2024-04-07,,0,8,2,1,7,2024-04
+CUST-0190,Kore Services,Finance,Mid-Market,Enterprise,Monthly,3971.05,2024-03-08,,0,9,2,4,7,2024-03
+CUST-0191,Delta Digital,Healthcare,Mid-Market,Professional,Monthly,949.27,2024-07-26,2024-09-28,1,5,2,113,2,2024-07
+CUST-0192,Delta Solutions,Healthcare,Small,Basic,Monthly,133.9,2024-12-26,,0,1,3,1,8,2024-12
+CUST-0193,Nova Technologies,Education,Mid-Market,Enterprise,Annual,3470.08,2024-06-26,,0,6,2,1,9,2024-06
+CUST-0194,Orbit Services,Healthcare,Mid-Market,Professional,Annual,762.04,2024-01-14,,0,11,0,8,6,2024-01
+CUST-0195,Titan Solutions,Education,Mid-Market,Professional,Annual,795.83,2024-07-17,,0,5,3,4,6,2024-07
+CUST-0196,Apex Solutions,Retail,Small,Professional,Annual,953.38,2024-01-26,,0,11,3,5,7,2024-01
+CUST-0197,Wave Networks,Retail,Small,Basic,Monthly,179.32,2024-04-28,,0,8,5,8,9,2024-04
+CUST-0198,Delta Corp,Manufacturing,Small,Professional,Monthly,948.63,2024-02-03,2024-08-05,1,11,4,162,4,2024-02
+CUST-0199,Titan Digital,Healthcare,Mid-Market,Professional,Annual,791.68,2024-01-21,,0,11,2,7,9,2024-01
+CUST-0200,Crest Dynamics,Education,Small,Professional,Monthly,751.78,2024-10-15,2024-11-26,1,2,4,52,3,2024-10
+CUST-0201,Orbit Networks,Finance,Mid-Market,Basic,Monthly,209.27,2024-09-25,,0,3,1,7,8,2024-09
+CUST-0202,Kore Dynamics,Healthcare,Small,Basic,Monthly,166.79,2024-01-14,2024-06-14,1,11,6,216,3,2024-01
+CUST-0203,Bright Systems,Real Estate,Small,Basic,Annual,289.72,2024-06-12,,0,6,1,8,4,2024-06
+CUST-0204,Arc Technologies,Manufacturing,Small,Basic,Annual,117.65,2024-11-03,2024-12-24,1,1,6,40,1,2024-11
+CUST-0205,Zenith Ventures,Real Estate,Small,Basic,Monthly,216.29,2024-08-02,2024-12-11,1,5,4,37,4,2024-08
+CUST-0206,Lumix Systems,Manufacturing,Small,Basic,Annual,109.29,2024-07-24,,0,5,1,5,6,2024-07
+CUST-0207,Rapid Partners,Technology,Small,Basic,Monthly,141.55,2024-09-17,2024-11-08,1,3,8,69,6,2024-09
+CUST-0208,Zenith Consulting,Manufacturing,Small,Professional,Monthly,638.28,2024-06-25,2024-08-14,1,6,8,184,3,2024-06
+CUST-0209,Bold Innovations,Healthcare,Enterprise,Enterprise,Monthly,3186.44,2024-06-20,,0,6,0,10,8,2024-06
+CUST-0210,Lumix Solutions,Finance,Small,Basic,Monthly,135.08,2024-07-01,,0,6,4,5,7,2024-07
+CUST-0211,Ultra Solutions,Technology,Small,Professional,Annual,570.63,2024-07-28,,0,5,4,2,8,2024-07
+CUST-0212,Kore Technologies,Healthcare,Small,Professional,Annual,764.24,2024-10-24,,0,2,2,8,6,2024-10
+CUST-0213,Titan Systems,Technology,Small,Professional,Annual,859.8,2024-03-10,,0,9,1,10,6,2024-03
+CUST-0214,Bright Corp,Retail,Mid-Market,Professional,Annual,577.7,2024-11-05,,0,1,4,11,7,2024-11
+CUST-0215,Fusion Services,Manufacturing,Small,Basic,Monthly,183.8,2024-11-22,2024-12-14,1,1,8,44,1,2024-11
+CUST-0216,Zenith Corp,Healthcare,Mid-Market,Professional,Monthly,671.59,2024-06-04,2024-09-22,1,7,6,141,5,2024-06
+CUST-0217,Rapid Innovations,Finance,Small,Basic,Monthly,123.0,2024-02-11,2024-09-14,1,10,8,129,2,2024-02
+CUST-0218,Bright Ventures,Real Estate,Enterprise,Professional,Annual,778.36,2024-02-17,,0,10,2,6,7,2024-02
+CUST-0219,Wave Dynamics,Retail,Small,Basic,Monthly,107.46,2024-06-24,2024-08-03,1,6,10,180,0,2024-06
+CUST-0220,Nexus Consulting,Technology,Small,Basic,Annual,122.03,2024-11-10,2024-12-11,1,1,6,40,0,2024-11
+CUST-0221,Metro Consulting,Healthcare,Mid-Market,Enterprise,Monthly,2588.19,2024-11-08,,0,1,4,2,8,2024-11
+CUST-0222,Core Digital,Manufacturing,Small,Basic,Monthly,166.9,2024-01-24,2024-06-06,1,11,4,222,6,2024-01
+CUST-0223,Bold Dynamics,Real Estate,Enterprise,Enterprise,Annual,3763.81,2024-11-07,,0,1,2,12,8,2024-11
+CUST-0224,Echo Analytics,Finance,Mid-Market,Enterprise,Annual,2089.67,2024-01-05,,0,12,1,4,6,2024-01
+CUST-0225,Swift Services,Manufacturing,Mid-Market,Basic,Monthly,250.83,2024-10-25,2024-12-25,1,2,11,47,6,2024-10
+CUST-0226,Ultra Partners,Finance,Mid-Market,Professional,Annual,839.57,2024-07-15,,0,5,0,11,9,2024-07
+CUST-0227,Arc Corp,Manufacturing,Small,Basic,Annual,112.66,2024-05-15,,0,7,4,5,6,2024-05
+CUST-0228,Nova Solutions,Healthcare,Small,Basic,Monthly,169.39,2024-06-02,2024-12-15,1,7,5,54,1,2024-06
+CUST-0229,Quantum Ventures,Retail,Small,Basic,Monthly,156.42,2024-06-27,2024-07-28,1,6,6,171,2,2024-06
+CUST-0230,Ultra Group,Healthcare,Small,Basic,Monthly,209.86,2024-08-19,,0,4,4,1,7,2024-08
+CUST-0231,Core Services,Real Estate,Small,Basic,Monthly,194.13,2024-03-20,2024-11-02,1,9,6,97,2,2024-03
+CUST-0232,Orbit Digital,Manufacturing,Small,Basic,Monthly,295.48,2024-03-11,2024-05-21,1,9,5,245,3,2024-03
+CUST-0233,Metro Ventures,Real Estate,Small,Basic,Annual,130.75,2024-01-20,,0,11,3,5,7,2024-01
+CUST-0234,Bright Partners,Technology,Mid-Market,Basic,Annual,234.78,2024-11-11,2024-12-21,1,1,2,41,4,2024-11
+CUST-0235,Kore Systems,Manufacturing,Small,Basic,Monthly,234.68,2024-05-18,2024-06-24,1,7,8,209,1,2024-05
+CUST-0236,Metro Technologies,Manufacturing,Small,Professional,Annual,569.71,2024-10-22,,0,2,3,11,5,2024-10
+CUST-0237,Quantum Systems,Education,Small,Basic,Monthly,286.6,2024-07-23,2024-10-13,1,5,5,110,5,2024-07
+CUST-0238,Echo Group,Healthcare,Small,Basic,Monthly,183.68,2024-04-22,2024-09-12,1,8,6,139,6,2024-04
+CUST-0239,Nova Dynamics,Healthcare,Small,Basic,Annual,196.25,2024-06-25,2024-08-05,1,6,1,167,1,2024-06
+CUST-0240,Echo Technologies,Real Estate,Mid-Market,Professional,Monthly,808.02,2024-01-25,,0,11,1,3,6,2024-01
+CUST-0241,Xcel Labs,Technology,Small,Professional,Annual,884.55,2024-12-23,,0,1,4,3,5,2024-12
+CUST-0242,Arc Services,Retail,Small,Basic,Monthly,171.86,2024-07-14,,0,5,3,8,5,2024-07
+CUST-0243,Orbit Labs,Real Estate,Small,Basic,Monthly,137.8,2024-03-27,,0,9,3,10,5,2024-03
+CUST-0244,Echo Consulting,Finance,Mid-Market,Professional,Monthly,888.06,2024-06-10,,0,6,5,7,7,2024-06
+CUST-0245,Ultra Labs,Real Estate,Small,Basic,Monthly,219.93,2024-05-26,,0,7,4,1,6,2024-05
+CUST-0246,Hyper Labs,Manufacturing,Small,Professional,Annual,776.27,2024-10-12,2024-11-28,1,2,7,76,4,2024-10
+CUST-0247,Edge Solutions,Retail,Small,Basic,Monthly,265.21,2024-10-05,2024-12-08,1,2,9,61,5,2024-10
+CUST-0248,Apex Partners,Technology,Small,Professional,Monthly,697.23,2024-11-02,2024-12-13,1,1,6,33,3,2024-11
+CUST-0249,Wave Consulting,Finance,Small,Basic,Annual,241.94,2024-02-27,,0,10,1,3,6,2024-02
+CUST-0250,Apex Corp,Finance,Mid-Market,Enterprise,Annual,3262.84,2024-01-25,,0,11,1,1,8,2024-01
+CUST-0251,Nexus Dynamics,Real Estate,Mid-Market,Professional,Annual,573.76,2024-10-27,,0,2,1,10,6,2024-10
+CUST-0252,Apex Dynamics,Manufacturing,Small,Basic,Monthly,190.42,2024-05-20,2024-07-16,1,7,6,212,3,2024-05
+CUST-0253,Nexus Technologies,Education,Mid-Market,Professional,Monthly,619.97,2024-06-19,2024-07-14,1,6,6,180,2,2024-06
+CUST-0254,Quantum Digital,Manufacturing,Small,Basic,Annual,116.12,2024-06-22,,0,6,3,2,8,2024-06
+CUST-0255,Metro Partners,Healthcare,Small,Basic,Monthly,296.67,2024-11-26,2024-12-13,1,1,7,58,4,2024-11
+CUST-0256,Global Innovations,Education,Small,Basic,Monthly,102.25,2024-03-24,,0,9,1,6,6,2024-03
+CUST-0257,Lumix Digital,Healthcare,Small,Basic,Monthly,119.73,2024-09-21,2024-10-25,1,3,4,98,4,2024-09
+CUST-0258,Orbit Innovations,Retail,Small,Basic,Monthly,227.56,2024-04-27,,0,8,4,11,6,2024-04
+CUST-0259,Nova Corp,Finance,Small,Enterprise,Monthly,1954.69,2024-11-21,2024-12-23,1,1,4,47,4,2024-11
+CUST-0260,Bold Digital,Retail,Enterprise,Enterprise,Annual,3476.77,2024-08-02,,0,5,2,6,6,2024-08
+CUST-0261,Nova Consulting,Education,Mid-Market,Basic,Monthly,106.32,2024-10-09,2024-12-10,1,2,6,53,2,2024-10
+CUST-0262,Drift Ventures,Education,Enterprise,Professional,Annual,635.61,2024-10-11,,0,2,2,7,9,2024-10
+CUST-0263,Lumix Networks,Real Estate,Mid-Market,Professional,Monthly,946.32,2024-08-15,2024-11-06,1,4,7,96,2,2024-08
+CUST-0264,Rapid Corp,Healthcare,Small,Basic,Annual,152.34,2024-02-17,2024-03-14,1,10,2,307,3,2024-02
+CUST-0265,Orbit Analytics,Education,Small,Basic,Monthly,115.01,2024-02-04,,0,11,2,5,8,2024-02
+CUST-0266,Crest Networks,Healthcare,Mid-Market,Professional,Annual,582.32,2024-06-14,,0,6,3,8,7,2024-06
+CUST-0267,Nova Systems,Education,Mid-Market,Enterprise,Monthly,3994.38,2024-01-20,,0,11,1,13,8,2024-01
+CUST-0268,Apex Technologies,Real Estate,Small,Basic,Monthly,180.24,2024-06-21,2024-08-24,1,6,8,149,2,2024-06
+CUST-0269,Global Services,Education,Small,Basic,Monthly,234.62,2024-04-20,2024-08-05,1,8,9,162,1,2024-04
+CUST-0270,Titan Technologies,Education,Small,Basic,Annual,171.43,2024-03-12,,0,9,1,1,6,2024-03
+CUST-0271,Bright Analytics,Finance,Mid-Market,Professional,Annual,973.41,2024-10-15,,0,2,1,13,7,2024-10
+CUST-0272,Global Systems,Technology,Enterprise,Enterprise,Monthly,2416.37,2024-06-17,,0,6,1,5,8,2024-06
+CUST-0273,Core Corp,Real Estate,Small,Basic,Annual,136.21,2024-08-24,,0,4,1,9,10,2024-08
+CUST-0274,Core Technologies,Real Estate,Small,Professional,Monthly,851.02,2024-01-09,2024-08-20,1,11,3,161,3,2024-01
+CUST-0275,Bright Services,Education,Small,Professional,Annual,725.02,2024-03-03,,0,10,4,8,5,2024-03
+CUST-0276,Wave Innovations,Education,Mid-Market,Basic,Monthly,296.31,2024-05-28,,0,7,3,12,8,2024-05
+CUST-0277,Peak Solutions,Healthcare,Enterprise,Enterprise,Annual,1934.23,2024-12-21,,0,1,1,4,10,2024-12
+CUST-0278,Delta Analytics,Technology,Mid-Market,Professional,Monthly,785.14,2024-03-18,,0,9,3,9,7,2024-03
+CUST-0279,Peak Digital,Retail,Small,Professional,Monthly,653.65,2024-01-03,,0,12,2,12,8,2024-01
+CUST-0280,Bright Labs,Retail,Small,Basic,Monthly,180.89,2024-01-25,,0,11,1,3,8,2024-01
+CUST-0281,Crest Solutions,Real Estate,Small,Professional,Annual,757.68,2024-04-22,,0,8,0,14,6,2024-04
+CUST-0282,Hyper Group,Education,Mid-Market,Enterprise,Annual,2794.26,2024-05-04,,0,8,3,3,9,2024-05
+CUST-0283,Swift Analytics,Finance,Small,Basic,Monthly,153.89,2024-07-18,2024-08-20,1,5,4,177,2,2024-07
+CUST-0284,Edge Analytics,Technology,Mid-Market,Professional,Annual,828.37,2024-12-06,,0,1,2,10,8,2024-12
+CUST-0285,Zenith Analytics,Healthcare,Enterprise,Enterprise,Annual,3658.45,2024-04-27,,0,8,3,11,8,2024-04
+CUST-0286,Peak Networks,Education,Small,Professional,Monthly,604.4,2024-02-21,,0,10,0,10,5,2024-02
+CUST-0287,Metro Corp,Retail,Enterprise,Enterprise,Annual,2223.18,2024-01-18,,0,11,4,8,6,2024-01
+CUST-0288,Orbit Group,Healthcare,Small,Basic,Monthly,236.72,2024-11-03,2024-12-14,1,1,2,57,4,2024-11
+CUST-0289,Xcel Consulting,Healthcare,Small,Basic,Annual,127.73,2024-05-20,,0,7,1,6,5,2024-05
+CUST-0290,Core Partners,Finance,Mid-Market,Enterprise,Monthly,1825.92,2024-01-13,,0,11,4,9,6,2024-01
+CUST-0291,Nexus Group,Real Estate,Mid-Market,Enterprise,Monthly,1805.3,2024-04-15,,0,8,5,3,10,2024-04
+CUST-0292,Kore Group,Real Estate,Small,Professional,Monthly,905.74,2024-01-06,,0,12,3,12,8,2024-01
+CUST-0293,Global Group,Manufacturing,Mid-Market,Professional,Annual,748.13,2024-03-06,,0,10,1,8,10,2024-03
+CUST-0294,Ultra Dynamics,Retail,Enterprise,Enterprise,Annual,1620.65,2024-05-12,,0,7,5,10,10,2024-05
+CUST-0295,Delta Networks,Healthcare,Mid-Market,Basic,Monthly,206.34,2024-03-10,,0,9,5,7,7,2024-03
+CUST-0296,Metro Solutions,Manufacturing,Small,Professional,Annual,681.89,2024-05-24,,0,7,1,1,8,2024-05
+CUST-0297,Metro Digital,Retail,Small,Professional,Annual,596.33,2024-10-18,,0,2,1,2,8,2024-10
+CUST-0298,Core Ventures,Healthcare,Enterprise,Professional,Annual,773.93,2024-07-25,,0,5,2,10,8,2024-07
+CUST-0299,Quantum Solutions,Technology,Mid-Market,Professional,Monthly,992.39,2024-10-26,,0,2,2,6,8,2024-10
+CUST-0300,Delta Partners,Manufacturing,Mid-Market,Professional,Annual,567.52,2024-08-02,,0,5,3,8,6,2024-08
+CUST-0301,Bold Corp,Manufacturing,Small,Basic,Monthly,131.5,2024-08-11,,0,4,1,12,5,2024-08
+CUST-0302,Wave Analytics,Healthcare,Small,Basic,Annual,200.46,2024-09-11,,0,3,1,8,9,2024-09
+CUST-0303,Crest Innovations,Education,Small,Basic,Monthly,262.15,2024-09-16,2024-12-22,1,3,6,26,1,2024-09
+CUST-0304,Peak Technologies,Manufacturing,Enterprise,Professional,Annual,797.45,2024-05-01,,0,8,2,11,6,2024-05
+CUST-0305,Wave Systems,Finance,Mid-Market,Professional,Monthly,859.59,2024-05-21,,0,7,2,7,7,2024-05
+CUST-0306,Nexus Digital,Real Estate,Small,Basic,Annual,187.21,2024-03-01,,0,10,1,7,5,2024-03
+CUST-0307,Xcel Solutions,Education,Enterprise,Professional,Monthly,959.26,2024-01-20,,0,11,3,12,8,2024-01
+CUST-0308,Edge Digital,Healthcare,Mid-Market,Professional,Monthly,758.34,2024-09-05,,0,3,3,11,5,2024-09
+CUST-0309,Arc Innovations,Healthcare,Enterprise,Enterprise,Annual,2384.72,2024-02-18,,0,10,1,12,9,2024-02
+CUST-0310,Peak Partners,Retail,Small,Basic,Monthly,195.84,2024-05-20,,0,7,4,5,9,2024-05
+CUST-0311,Lumix Services,Real Estate,Enterprise,Professional,Monthly,779.24,2024-08-12,,0,4,1,12,7,2024-08
+CUST-0312,Hyper Innovations,Retail,Small,Basic,Monthly,157.09,2024-05-05,2024-06-23,1,8,6,206,3,2024-05
+CUST-0313,Titan Innovations,Manufacturing,Mid-Market,Basic,Monthly,139.41,2024-11-07,2024-12-18,1,1,3,40,4,2024-11
+CUST-0314,Vertex Services,Finance,Small,Enterprise,Annual,2105.15,2024-08-08,,0,4,4,9,9,2024-08
+CUST-0315,Edge Networks,Retail,Mid-Market,Professional,Annual,981.26,2024-08-01,,0,5,0,3,8,2024-08
+CUST-0316,Kore Corp,Education,Small,Basic,Monthly,229.11,2024-07-16,,0,5,4,5,7,2024-07
+CUST-0317,Echo Ventures,Real Estate,Mid-Market,Professional,Monthly,952.97,2024-03-02,2024-09-19,1,10,5,127,3,2024-03
+CUST-0318,Echo Networks,Education,Small,Professional,Monthly,965.96,2024-01-06,2024-09-27,1,12,4,130,0,2024-01
+CUST-0319,Innov Labs,Education,Small,Basic,Annual,284.21,2024-01-28,,0,11,2,1,5,2024-01
+CUST-0320,Orbit Corp,Finance,Small,Basic,Monthly,203.86,2024-03-18,,0,9,3,3,5,2024-03
+CUST-0321,Wave Technologies,Technology,Enterprise,Enterprise,Annual,1780.62,2024-11-26,,0,1,3,8,9,2024-11
+CUST-0322,Zenith Group,Finance,Small,Professional,Annual,667.56,2024-06-24,,0,6,5,11,4,2024-06
+CUST-0323,Metro Dynamics,Technology,Small,Basic,Monthly,270.23,2024-08-20,,0,4,0,14,8,2024-08
+CUST-0324,Hyper Ventures,Finance,Small,Basic,Monthly,295.34,2024-06-06,2024-07-08,1,6,4,186,5,2024-06
+CUST-0325,Swift Innovations,Manufacturing,Mid-Market,Professional,Monthly,875.88,2024-06-15,,0,6,1,5,9,2024-06
+CUST-0326,Ultra Networks,Healthcare,Small,Basic,Monthly,151.31,2024-05-01,2024-09-08,1,8,6,127,7,2024-05
+CUST-0327,Lumix Ventures,Education,Small,Basic,Monthly,221.93,2024-08-12,2024-11-05,1,4,6,96,8,2024-08
+CUST-0328,Vertex Consulting,Finance,Mid-Market,Professional,Monthly,955.4,2024-08-18,,0,4,5,13,5,2024-08
+CUST-0329,Arc Systems,Manufacturing,Mid-Market,Professional,Monthly,622.73,2024-04-25,,0,8,3,14,9,2024-04
+CUST-0330,Rapid Technologies,Finance,Small,Basic,Annual,204.63,2024-11-15,,0,1,3,10,6,2024-11
+CUST-0331,Arc Solutions,Retail,Small,Basic,Annual,269.9,2024-08-11,,0,4,3,11,6,2024-08
+CUST-0332,Bold Solutions,Education,Small,Basic,Monthly,201.65,2024-05-05,2024-10-02,1,8,3,135,1,2024-05
+CUST-0333,Rapid Solutions,Technology,Small,Basic,Annual,214.66,2024-08-07,2024-11-12,1,4,8,63,5,2024-08
+CUST-0334,Delta Services,Education,Small,Basic,Annual,105.35,2024-09-16,,0,3,6,13,9,2024-09
+CUST-0335,Edge Ventures,Retail,Small,Basic,Monthly,228.18,2024-08-24,2024-09-13,1,4,4,147,3,2024-08
+CUST-0336,Delta Dynamics,Real Estate,Small,Basic,Monthly,235.55,2024-02-03,,0,11,3,9,8,2024-02
+CUST-0337,Quantum Technologies,Education,Small,Professional,Annual,558.32,2024-09-12,,0,3,1,7,8,2024-09
+CUST-0338,Fusion Networks,Education,Mid-Market,Professional,Annual,916.41,2024-03-08,,0,9,3,5,6,2024-03
+CUST-0339,Nova Ventures,Retail,Mid-Market,Professional,Monthly,555.42,2024-01-25,,0,11,0,7,7,2024-01
+CUST-0340,Global Consulting,Education,Small,Basic,Monthly,206.95,2024-07-08,,0,5,7,13,8,2024-07
+CUST-0341,Innov Corp,Technology,Small,Basic,Annual,162.78,2024-07-19,,0,5,5,11,7,2024-07
+CUST-0342,Nexus Ventures,Finance,Small,Basic,Annual,288.7,2024-02-18,,0,10,2,3,6,2024-02
+CUST-0343,Nova Digital,Retail,Small,Professional,Annual,687.23,2024-03-10,,0,9,1,8,8,2024-03
+CUST-0344,Bold Group,Technology,Mid-Market,Enterprise,Annual,2892.22,2024-07-14,,0,5,5,4,9,2024-07
+CUST-0345,Xcel Dynamics,Manufacturing,Mid-Market,Enterprise,Annual,2441.92,2024-03-09,,0,9,2,1,9,2024-03
+CUST-0346,Xcel Services,Retail,Mid-Market,Basic,Monthly,194.88,2024-09-07,,0,3,4,6,8,2024-09
+CUST-0347,Metro Labs,Manufacturing,Mid-Market,Professional,Annual,846.81,2024-06-08,,0,6,1,7,9,2024-06
+CUST-0348,Drift Labs,Retail,Mid-Market,Professional,Annual,678.63,2024-02-21,,0,10,2,9,10,2024-02
+CUST-0349,Swift Consulting,Finance,Mid-Market,Professional,Annual,900.41,2024-10-04,,0,2,4,13,7,2024-10
+CUST-0350,Delta Group,Healthcare,Enterprise,Enterprise,Annual,1863.81,2024-03-24,,0,9,1,10,5,2024-03
+CUST-0351,Vertex Partners,Healthcare,Small,Basic,Monthly,174.97,2024-01-08,,0,11,3,8,8,2024-01
+CUST-0352,Lumix Technologies,Finance,Mid-Market,Enterprise,Monthly,3552.98,2024-04-25,,0,8,5,11,6,2024-04
+CUST-0353,Bold Consulting,Technology,Small,Enterprise,Annual,2865.37,2024-04-24,,0,8,2,9,6,2024-04
+CUST-0354,Edge Labs,Education,Small,Basic,Monthly,232.64,2024-03-27,,0,9,0,7,7,2024-03
+CUST-0355,Quantum Innovations,Healthcare,Small,Enterprise,Annual,1538.33,2024-02-16,,0,10,2,7,6,2024-02
+CUST-0356,Edge Systems,Manufacturing,Small,Basic,Monthly,294.5,2024-04-18,2024-07-27,1,8,4,194,5,2024-04
+CUST-0357,Hyper Services,Retail,Enterprise,Professional,Monthly,619.48,2024-04-05,,0,9,2,5,6,2024-04
+CUST-0358,Zenith Solutions,Technology,Small,Basic,Monthly,173.61,2024-07-03,2024-08-19,1,6,5,159,4,2024-07
+CUST-0359,Crest Ventures,Education,Small,Professional,Annual,688.63,2024-05-13,,0,7,4,1,7,2024-05
+CUST-0360,Hyper Solutions,Technology,Small,Professional,Monthly,664.64,2024-03-26,,0,9,3,2,8,2024-03
+CUST-0361,Vertex Solutions,Finance,Small,Basic,Annual,284.12,2024-05-22,,0,7,0,10,7,2024-05
+CUST-0362,Bold Ventures,Technology,Small,Basic,Monthly,161.9,2024-07-28,,0,5,3,10,5,2024-07
+CUST-0363,Metro Services,Education,Small,Basic,Monthly,131.49,2024-07-10,2024-08-27,1,5,8,160,3,2024-07
+CUST-0364,Xcel Partners,Technology,Mid-Market,Basic,Monthly,257.1,2024-10-05,2024-11-03,1,2,4,100,1,2024-10
+CUST-0365,Kore Solutions,Education,Mid-Market,Professional,Annual,717.54,2024-11-04,,0,1,1,6,6,2024-11
+CUST-0366,Arc Group,Education,Enterprise,Basic,Monthly,255.71,2024-06-09,2024-07-08,1,6,7,208,3,2024-06
+CUST-0367,Hyper Systems,Finance,Enterprise,Enterprise,Annual,1704.1,2024-07-03,,0,6,2,12,6,2024-07
+CUST-0368,Zenith Systems,Education,Mid-Market,Enterprise,Annual,1967.48,2024-06-03,,0,7,1,9,5,2024-06
+CUST-0369,Lumix Corp,Finance,Mid-Market,Professional,Annual,951.6,2024-01-18,,0,11,1,10,5,2024-01
+CUST-0370,Apex Ventures,Healthcare,Mid-Market,Basic,Monthly,224.01,2024-01-24,,0,11,1,4,7,2024-01
+CUST-0371,Global Partners,Retail,Mid-Market,Professional,Annual,809.1,2024-05-27,,0,7,0,6,6,2024-05
+CUST-0372,Vertex Technologies,Education,Mid-Market,Enterprise,Annual,3540.24,2024-08-09,,0,4,0,2,8,2024-08
+CUST-0373,Rapid Digital,Real Estate,Mid-Market,Professional,Annual,893.54,2024-01-14,2024-06-20,1,11,5,234,6,2024-01
+CUST-0374,Titan Dynamics,Technology,Mid-Market,Enterprise,Annual,2544.75,2024-04-23,2024-09-12,1,8,3,154,5,2024-04
+CUST-0375,Echo Dynamics,Manufacturing,Mid-Market,Professional,Annual,883.48,2024-09-04,,0,3,1,6,7,2024-09
+CUST-0376,Zenith Dynamics,Manufacturing,Small,Professional,Annual,780.61,2024-03-02,,0,10,1,11,6,2024-03
+CUST-0377,Nexus Networks,Technology,Small,Basic,Monthly,199.09,2024-11-23,2024-12-01,1,1,7,70,4,2024-11
+CUST-0378,Innov Partners,Retail,Mid-Market,Professional,Monthly,914.66,2024-11-04,,0,1,0,6,9,2024-11
+CUST-0379,Echo Digital,Finance,Mid-Market,Professional,Monthly,602.43,2024-03-26,,0,9,5,8,6,2024-03
+CUST-0380,Arc Ventures,Education,Small,Professional,Monthly,778.92,2024-04-11,,0,8,2,4,6,2024-04
+CUST-0381,Drift Group,Retail,Small,Basic,Monthly,136.28,2024-06-06,2024-07-13,1,6,10,182,0,2024-06
+CUST-0382,Wave Services,Real Estate,Mid-Market,Enterprise,Monthly,2572.88,2024-01-19,2024-08-07,1,11,4,169,1,2024-01
+CUST-0383,Echo Partners,Healthcare,Mid-Market,Basic,Monthly,214.47,2024-07-03,,0,6,1,9,7,2024-07
+CUST-0384,Titan Ventures,Manufacturing,Enterprise,Enterprise,Annual,2642.88,2024-04-07,,0,8,2,14,5,2024-04
+CUST-0385,Ultra Digital,Education,Small,Basic,Monthly,216.4,2024-04-13,2024-08-28,1,8,7,164,1,2024-04
+CUST-0386,Innov Technologies,Finance,Small,Basic,Monthly,285.14,2024-10-21,2024-11-06,1,2,8,96,0,2024-10
+CUST-0387,Peak Ventures,Education,Small,Professional,Annual,919.99,2024-12-11,,0,1,1,14,3,2024-12
+CUST-0388,Swift Systems,Healthcare,Mid-Market,Enterprise,Annual,2538.08,2024-02-16,,0,10,1,8,6,2024-02
+CUST-0389,Bold Services,Technology,Small,Basic,Annual,207.62,2024-05-25,,0,7,1,9,8,2024-05
+CUST-0390,Hyper Partners,Real Estate,Mid-Market,Enterprise,Annual,3296.45,2024-05-25,,0,7,1,7,4,2024-05
+CUST-0391,Ultra Ventures,Finance,Small,Basic,Monthly,116.4,2024-02-27,,0,10,1,2,5,2024-02
+CUST-0392,Swift Partners,Manufacturing,Mid-Market,Basic,Monthly,126.85,2024-02-20,2024-05-07,1,10,12,251,2,2024-02
+CUST-0393,Wave Partners,Real Estate,Small,Basic,Monthly,218.37,2024-09-09,2024-12-23,1,3,8,36,3,2024-09
+CUST-0394,Swift Dynamics,Healthcare,Small,Basic,Monthly,251.29,2024-06-08,2024-07-16,1,6,1,187,5,2024-06
+CUST-0395,Xcel Corp,Education,Enterprise,Enterprise,Annual,2534.56,2024-12-21,,0,1,4,11,6,2024-12
+CUST-0396,Kore Digital,Manufacturing,Small,Basic,Monthly,189.94,2024-12-12,,0,1,1,10,8,2024-12
+CUST-0397,Drift Dynamics,Real Estate,Small,Basic,Monthly,212.23,2024-12-05,,0,1,2,6,7,2024-12
+CUST-0398,Edge Technologies,Education,Mid-Market,Enterprise,Monthly,1613.86,2024-05-02,,0,8,1,14,6,2024-05
+CUST-0399,Bright Technologies,Manufacturing,Mid-Market,Professional,Monthly,578.49,2024-01-10,,0,11,1,5,6,2024-01
+CUST-0400,Bold Systems,Real Estate,Enterprise,Enterprise,Monthly,2797.61,2024-11-08,,0,1,0,1,6,2024-11
+CUST-0401,Quantum Analytics,Technology,Small,Basic,Monthly,237.81,2024-07-14,2024-08-08,1,5,4,179,3,2024-07
+CUST-0402,Xcel Ventures,Healthcare,Mid-Market,Professional,Annual,824.01,2024-03-20,,0,9,2,12,8,2024-03
+CUST-0403,Quantum Group,Education,Mid-Market,Enterprise,Monthly,2285.26,2024-05-14,2024-07-09,1,7,6,190,4,2024-05
+CUST-0404,Peak Dynamics,Manufacturing,Small,Basic,Monthly,158.11,2024-01-13,2024-07-26,1,11,6,183,2,2024-01
+CUST-0405,Wave Digital,Real Estate,Small,Basic,Monthly,204.66,2024-03-03,,0,10,0,6,7,2024-03
+CUST-0406,Rapid Analytics,Finance,Small,Basic,Monthly,183.72,2024-09-14,2024-12-21,1,3,7,54,2,2024-09
+CUST-0407,Ultra Services,Real Estate,Small,Basic,Monthly,115.72,2024-10-09,2024-11-07,1,2,4,73,4,2024-10
+CUST-0408,Ultra Systems,Retail,Enterprise,Professional,Monthly,839.53,2024-07-21,2024-10-23,1,5,9,106,5,2024-07
+CUST-0409,Global Labs,Healthcare,Small,Professional,Monthly,754.39,2024-10-15,2024-12-28,1,2,6,23,5,2024-10
+CUST-0410,Nexus Innovations,Healthcare,Mid-Market,Professional,Annual,984.93,2024-04-19,,0,8,3,13,8,2024-04
+CUST-0411,Fusion Technologies,Real Estate,Small,Basic,Monthly,293.91,2024-10-15,2024-12-04,1,2,3,69,5,2024-10
+CUST-0412,Vertex Corp,Healthcare,Mid-Market,Professional,Monthly,791.35,2024-01-25,2024-11-06,1,11,2,93,4,2024-01
+CUST-0413,Bright Group,Education,Small,Basic,Monthly,297.14,2024-01-27,2024-07-13,1,11,5,209,3,2024-01
+CUST-0414,Drift Services,Manufacturing,Small,Basic,Monthly,260.86,2024-07-15,2024-10-28,1,5,6,95,5,2024-07
+CUST-0415,Quantum Partners,Retail,Enterprise,Enterprise,Annual,3075.89,2024-09-08,,0,3,3,13,6,2024-09
+CUST-0416,Rapid Consulting,Real Estate,Mid-Market,Professional,Monthly,588.91,2024-08-09,2024-11-08,1,4,5,64,2,2024-08
+CUST-0417,Lumix Analytics,Manufacturing,Enterprise,Enterprise,Monthly,1638.77,2024-10-24,,0,2,3,4,5,2024-10
+CUST-0418,Titan Group,Technology,Small,Professional,Annual,780.55,2024-01-05,,0,12,2,13,6,2024-01
+CUST-0419,Core Consulting,Manufacturing,Small,Basic,Monthly,194.6,2024-07-17,2024-08-20,1,5,3,155,3,2024-07
+CUST-0420,Echo Innovations,Retail,Enterprise,Enterprise,Annual,2411.22,2024-07-28,2024-11-23,1,5,6,73,3,2024-07
+CUST-0421,Kore Labs,Technology,Small,Basic,Monthly,226.85,2024-08-26,2024-11-11,1,4,6,71,2,2024-08
+CUST-0422,Fusion Group,Retail,Mid-Market,Basic,Monthly,140.94,2024-08-09,,0,4,1,6,4,2024-08
+CUST-0423,Hyper Dynamics,Healthcare,Mid-Market,Professional,Monthly,776.06,2024-06-23,,0,6,0,9,7,2024-06
+CUST-0424,Titan Labs,Finance,Small,Basic,Annual,146.51,2024-07-10,2024-08-19,1,5,9,179,1,2024-07
+CUST-0425,Peak Consulting,Technology,Small,Basic,Monthly,104.15,2024-08-04,2024-10-10,1,4,3,97,1,2024-08
+CUST-0426,Core Systems,Education,Small,Professional,Monthly,891.44,2024-08-10,,0,4,2,11,9,2024-08
+CUST-0427,Swift Networks,Finance,Mid-Market,Enterprise,Annual,3519.45,2024-02-12,,0,10,0,13,7,2024-02
+CUST-0428,Apex Services,Education,Mid-Market,Enterprise,Annual,2246.13,2024-02-16,,0,10,2,14,4,2024-02
+CUST-0429,Peak Services,Manufacturing,Small,Basic,Monthly,216.52,2024-11-20,2024-12-04,1,1,7,63,6,2024-11
+CUST-0430,Fusion Corp,Healthcare,Small,Basic,Monthly,173.78,2024-05-28,2024-07-26,1,7,6,178,6,2024-05
+CUST-0431,Peak Analytics,Retail,Mid-Market,Professional,Monthly,731.11,2024-04-27,,0,8,3,2,7,2024-04
+CUST-0432,Hyper Analytics,Real Estate,Mid-Market,Basic,Annual,291.1,2024-05-06,,0,7,3,9,7,2024-05
+CUST-0433,Ultra Innovations,Education,Mid-Market,Enterprise,Annual,3280.85,2024-06-10,,0,6,2,5,8,2024-06
+CUST-0434,Fusion Partners,Education,Small,Basic,Monthly,136.67,2024-01-10,2024-11-08,1,11,6,66,2,2024-01
+CUST-0435,Drift Networks,Retail,Small,Basic,Monthly,143.47,2024-10-23,2024-12-26,1,2,5,45,2,2024-10
+CUST-0436,Fusion Solutions,Education,Mid-Market,Professional,Monthly,657.19,2024-10-05,,0,2,5,13,7,2024-10
+CUST-0437,Company 437,Retail,Enterprise,Enterprise,Annual,3065.72,2024-05-01,,0,8,2,12,9,2024-05
+CUST-0438,Quantum Services,Education,Small,Basic,Monthly,266.14,2024-07-09,2024-09-16,1,5,3,142,4,2024-07
+CUST-0439,Xcel Group,Retail,Small,Basic,Monthly,243.75,2024-01-19,2024-07-22,1,11,4,193,6,2024-01
+CUST-0440,Quantum Consulting,Retail,Mid-Market,Enterprise,Monthly,3158.28,2024-11-12,,0,1,0,3,10,2024-11
+CUST-0441,Crest Labs,Retail,Small,Basic,Monthly,198.17,2024-01-28,2024-03-25,1,11,5,322,3,2024-01
+CUST-0442,Innov Digital,Manufacturing,Small,Enterprise,Annual,1795.77,2024-03-11,,0,9,1,11,5,2024-03
+CUST-0443,Swift Technologies,Education,Mid-Market,Basic,Monthly,239.42,2024-05-12,2024-09-06,1,7,4,157,1,2024-05
+CUST-0444,Titan Networks,Healthcare,Enterprise,Enterprise,Annual,1819.95,2024-01-27,,0,11,1,10,6,2024-01
+CUST-0445,Zenith Partners,Manufacturing,Small,Basic,Annual,275.28,2024-03-17,,0,9,4,10,6,2024-03
+CUST-0446,Company 445,Healthcare,Enterprise,Professional,Annual,790.4,2024-10-16,,0,2,2,12,5,2024-10
+CUST-0447,Company 445,Healthcare,Enterprise,Professional,Annual,860.99,2024-05-18,2024-08-17,1,7,8,169,5,2024-05
+CUST-0448,Drift Analytics,Technology,Small,Enterprise,Monthly,2625.61,2024-05-16,,0,7,2,5,4,2024-05
+CUST-0449,Peak Labs,Finance,Enterprise,Enterprise,Annual,3704.09,2024-02-17,,0,10,2,4,7,2024-02
+CUST-0450,Company 447,Real Estate,Small,Basic,Monthly,131.25,2024-05-19,,0,7,1,1,10,2024-05
+CUST-0451,Peak Innovations,Finance,Mid-Market,Professional,Annual,558.54,2024-07-22,,0,5,0,13,9,2024-07
+CUST-0452,Peak Corp,Healthcare,Small,Basic,Monthly,246.09,2024-07-08,,0,5,4,4,6,2024-07
+CUST-0453,Apex Digital,Real Estate,Small,Basic,Monthly,270.7,2024-03-18,2024-07-04,1,9,2,200,4,2024-03
+CUST-0454,Company 450,Real Estate,Small,Basic,Monthly,268.59,2024-02-25,2024-08-16,1,10,4,181,3,2024-02
+CUST-0455,Company 450,Manufacturing,Mid-Market,Enterprise,Annual,1649.13,2024-11-21,,0,1,5,3,6,2024-11
+CUST-0456,Bold Networks,Technology,Small,Basic,Monthly,199.94,2024-03-13,,0,9,2,9,6,2024-03
+CUST-0457,Company 451,Real Estate,Small,Basic,Monthly,227.45,2024-01-20,2024-06-26,1,11,4,222,3,2024-01
+CUST-0458,Company 451,Retail,Mid-Market,Professional,Annual,508.54,2024-07-04,,0,6,4,11,8,2024-07
+CUST-0459,Company 451,Technology,Enterprise,Professional,Monthly,712.78,2024-03-08,,0,9,1,10,10,2024-03
+CUST-0460,Company 451,Real Estate,Mid-Market,Professional,Monthly,553.44,2024-03-02,,0,10,1,3,7,2024-03
+CUST-0461,Company 451,Healthcare,Mid-Market,Enterprise,Annual,3377.85,2024-12-26,,0,1,5,6,9,2024-12
+CUST-0462,Company 451,Real Estate,Small,Basic,Monthly,196.5,2024-07-15,2024-09-04,1,5,5,150,5,2024-07
+CUST-0463,Company 451,Retail,Enterprise,Enterprise,Annual,3010.07,2024-10-23,,0,2,3,3,5,2024-10
+CUST-0464,Company 451,Healthcare,Small,Basic,Monthly,156.76,2024-01-01,,0,12,3,7,5,2024-01
+CUST-0465,Company 451,Manufacturing,Enterprise,Enterprise,Monthly,3203.59,2024-11-11,,0,1,4,11,7,2024-11
+CUST-0466,Company 451,Retail,Small,Professional,Annual,517.81,2024-02-23,,0,10,1,8,10,2024-02
+CUST-0467,Company 451,Real Estate,Mid-Market,Professional,Annual,540.55,2024-04-08,,0,8,3,12,9,2024-04
+CUST-0468,Company 451,Manufacturing,Small,Professional,Monthly,721.63,2024-08-18,2024-09-05,1,4,7,146,5,2024-08
+CUST-0469,Company 451,Real Estate,Small,Basic,Monthly,241.05,2024-09-15,2024-12-05,1,3,9,48,5,2024-09
+CUST-0470,Company 451,Education,Enterprise,Enterprise,Annual,1778.31,2024-01-26,2024-06-16,1,11,6,235,3,2024-01
+CUST-0471,Company 451,Education,Enterprise,Enterprise,Annual,1573.31,2024-07-05,,0,5,2,14,7,2024-07
+CUST-0472,Company 451,Healthcare,Small,Enterprise,Monthly,2944.48,2024-06-28,,0,6,0,5,9,2024-06
+CUST-0473,Company 451,Retail,Mid-Market,Professional,Monthly,973.36,2024-08-23,2024-11-14,1,4,7,87,5,2024-08
+CUST-0474,Company 451,Technology,Small,Professional,Monthly,835.81,2024-12-27,,0,1,0,12,4,2024-12
+CUST-0475,Company 451,Real Estate,Small,Basic,Monthly,252.65,2024-03-08,,0,9,3,6,7,2024-03
+CUST-0476,Company 451,Finance,Small,Basic,Monthly,136.44,2024-05-26,2024-08-24,1,7,3,155,3,2024-05
+CUST-0477,Company 451,Healthcare,Small,Basic,Monthly,210.37,2024-12-07,,0,1,0,6,9,2024-12
+CUST-0478,Company 451,Retail,Small,Basic,Monthly,255.31,2024-04-26,2024-11-07,1,8,5,83,2,2024-04
+CUST-0479,Company 451,Manufacturing,Mid-Market,Professional,Annual,785.53,2024-12-16,,0,1,2,6,6,2024-12
+CUST-0480,Company 451,Healthcare,Small,Basic,Annual,291.27,2024-01-14,,0,11,2,1,9,2024-01
+CUST-0481,Company 451,Technology,Small,Basic,Monthly,211.02,2024-04-22,2024-07-14,1,8,8,183,1,2024-04
+CUST-0482,Company 451,Manufacturing,Small,Professional,Monthly,752.55,2024-04-08,,0,8,1,14,5,2024-04
+CUST-0483,Company 451,Retail,Enterprise,Professional,Annual,818.05,2024-01-13,,0,11,1,11,7,2024-01
+CUST-0484,Company 451,Finance,Small,Basic,Annual,193.96,2024-11-07,,0,1,4,8,7,2024-11
+CUST-0485,Company 451,Education,Small,Basic,Monthly,263.09,2024-04-16,,0,8,1,3,6,2024-04
+CUST-0486,Company 451,Education,Small,Professional,Annual,993.28,2024-04-20,,0,8,1,6,8,2024-04
+CUST-0487,Company 451,Retail,Small,Basic,Monthly,128.58,2024-07-21,2024-08-22,1,5,5,150,4,2024-07
+CUST-0488,Company 451,Technology,Mid-Market,Basic,Annual,181.63,2024-02-17,2024-07-21,1,10,8,193,3,2024-02
+CUST-0489,Company 451,Retail,Small,Basic,Monthly,298.37,2024-10-09,2024-12-16,1,2,5,38,2,2024-10
+CUST-0490,Company 451,Real Estate,Mid-Market,Professional,Annual,758.45,2024-04-03,,0,9,2,12,6,2024-04
+CUST-0491,Company 451,Finance,Mid-Market,Basic,Monthly,194.37,2024-06-13,2024-11-01,1,6,4,102,3,2024-06
+CUST-0492,Company 451,Education,Small,Basic,Monthly,178.07,2024-03-16,2024-07-14,1,9,2,191,2,2024-03
+CUST-0493,Company 451,Real Estate,Small,Basic,Annual,216.78,2024-06-25,,0,6,2,4,7,2024-06
+CUST-0494,Company 451,Finance,Mid-Market,Professional,Monthly,609.32,2024-11-15,2024-12-19,1,1,9,47,6,2024-11
+CUST-0495,Company 451,Healthcare,Small,Basic,Monthly,188.34,2024-03-13,,0,9,2,8,7,2024-03
+CUST-0496,Company 451,Retail,Small,Professional,Annual,819.95,2024-06-21,,0,6,3,3,8,2024-06
+CUST-0497,Company 451,Manufacturing,Small,Professional,Annual,724.05,2024-10-17,,0,2,4,11,7,2024-10
+CUST-0498,Company 451,Finance,Small,Professional,Monthly,684.13,2024-08-01,2024-11-10,1,5,6,80,2,2024-08
+CUST-0499,Company 451,Finance,Enterprise,Enterprise,Annual,3085.16,2024-03-15,,0,9,3,3,5,2024-03
+CUST-0500,Company 451,Real Estate,Small,Basic,Monthly,148.06,2024-06-12,2024-07-12,1,6,11,205,5,2024-06
