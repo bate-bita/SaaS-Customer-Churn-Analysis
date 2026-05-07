@@ -81,17 +81,17 @@ Uses a window function to rank all customers by monthly recurring revenue, ident
 ### Page 1: Churn Overview
 High-level summary of churn volume, rate, and revenue split. Includes monthly churn trend, churn rate by subscription plan, churn rate by contract type, and a revenue split donut chart showing active vs churned MRR.
 
-![Page 1](Power%20BI%20Screenshots/page1_churn_overview.png)
+![Page 1](Power%20BI%20Screenshots/Churn%20Overview.png)
 
 ### Page 2: Revenue Impact
 Financial deep-dive into MRR loss. Includes total MRR, churned MRR, and active customer KPIs, a monthly MRR loss column chart, churned MRR by customer segment, a monthly MRR loss waterfall chart, and a top 10 churned customers table ranked by revenue.
 
-![Page 2](Power%20BI%20Screenshots/page2_revenue_impact.png)
+![Page 2](Power%20BI%20Screenshots/Revenue%20Impact.png)
 
 ### Page 3: Customer Segment Analysis
 Segment-level breakdown of churn behavior. Includes NPS comparison between churned and active customers, churn rate by company size, churn rate by contract type, customer distribution by segment, and average support tickets for churned vs active customers.
 
-![Page 3](Power%20BI%20Screenshots/page3_customer_segments.png)
+![Page 3](Power%20BI%20Screenshots/Customer%20Segment%20Analysis.png)
 
 ---
 
