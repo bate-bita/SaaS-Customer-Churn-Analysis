@@ -8,9 +8,9 @@ A two-layer analytical project combining SQL data querying and Power BI dashboar
 
 **Company:** PulseHQ, a fictional B2B CRM SaaS platform serving Small, Mid-Market, and Enterprise customers across Basic, Professional, and Enterprise subscription plans.
 
-**Business Problem:** PulseHQ is experiencing an overall churn rate of 35.4%, with monthly contract customers churning at nearly 4x the rate of annual customers. Leadership needs visibility into churn patterns, revenue impact, and at-risk customers to inform retention strategy.
+**Business Problem:** PulseHQ's leadership has limited visibility into why customers are leaving, which segments are most at risk, and how much recurring revenue is being lost to churn. Without a structured view of churn patterns and their financial impact, the retention team cannot prioritize effectively or intervene before customers leave.
 
-**Analytical Approach:** The project is structured in two layers. The SQL layer extracts and aggregates raw customer data to surface churn patterns and revenue exposure. The Power BI layer translates those findings into an interactive 3-page executive dashboard for business stakeholders.
+**Analytical Approach:** The project is structured in two layers. The SQL layer queries and aggregates raw customer data to surface churn patterns and revenue exposure. The Power BI layer translates those findings into an interactive 3-page executive dashboard designed to support retention decision-making at the leadership level.
 
 ---
 
