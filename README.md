@@ -45,28 +45,28 @@ The dataset was generated in Python using realistic business logic and narrative
 ### Query 1: Monthly Churn Trend
 Tracks how many customers churned each month to identify peak churn periods and seasonal patterns.
 
-![Query 1 Results](Query%20Results/Monthly_Churn_Trend.png)
+![Query 1 Results](Query%20Results/Monthly%20Churn%20Trend.png)
 
 ### Query 2: Churn Rate by Subscription Plan
 Identifies which subscription plan carries the highest churn risk and quantifies revenue exposure per plan.
 
-![Query 2 Results](Query%20Results/Churn_Rate_by_Subscription_Plan.png)
+![Query 2 Results](Query%20Results/Churn%20Rate%20by%20Subscription%20Plan.png)
 
 ### Query 3: Churned MRR by Customer Segment
 Breaks down total and average MRR lost by company size to identify which segment causes the most financial damage when customers leave.
 
-![Query 3 Results](Query%20Results/Churned_MRR_by_Customer_Segment.png)
+![Query 3 Results](Query%20Results/Churned%20MRR%20by%20Customer%20Segment.png)
 
 ### Query 4: High Churn Risk Customers (CTE)
 Uses a Common Table Expression to build a behavioral risk scoring model that flags currently active customers showing the same warning signs as customers who already churned. Risk scores are based on five signals: high support ticket volume, low NPS score, recent login inactivity, short tenure, and monthly contract type. Outputs a prioritized retention action list.
 
-![Query 4 Results Part 1](Query%20Results/High_Churn_Risk_Customers__CTE__-_1.png)
-![Query 4 Results Part 2](Query%20Results/High_Churn_Risk_Customers__CTE__-_2.png)
+![Query 4 Results Part 1](Query%20Results/High%20Churn%20Risk%20Customers%20(CTE)%20-%201.png)
+![Query 4 Results Part 2](Query%20Results/High%20Churn%20Risk%20Customers%20(CTE)%20-%202.png)
 
 ### Query 5: Top Customers by MRR Using RANK()
 Uses a window function to rank all customers by monthly recurring revenue, identifying the highest-value accounts the retention team should prioritize before they churn.
 
-![Query 5 Results](Query%20Results/Top_Customers_by_MRR_Using_RANK__.png)
+![Query 5 Results](Query%20Results/Top%20Customers%20by%20MRR%20Using%20RANK().png)
 
 ---
 
