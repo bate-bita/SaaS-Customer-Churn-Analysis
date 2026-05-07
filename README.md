@@ -32,7 +32,7 @@ The dataset was generated in Python using realistic business logic and narrative
 
 **Tool:** SQLite via DB Browser for SQLite
 
-**File:** `sql/pulsehq_queries.sql`
+**File:** `PulseHQ SQL Queries.sql`
 
 ### Query 1: Monthly Churn Trend
 Tracks how many customers churned each month to identify peak churn periods and seasonal patterns.
