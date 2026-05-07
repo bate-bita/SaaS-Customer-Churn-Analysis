@@ -107,15 +107,31 @@ Segment-level breakdown of churn behavior. Includes NPS comparison between churn
 
 ---
 
-## Technical Challenges
+## Technical Challenges and How They Were Solved
 
-**DAX measure dependencies:** Creating measures that referenced other measures caused circular dependency errors in Power BI. Resolved by building measures in strict dependency order, foundational measures first before derived ones.
+### Challenge 1: DAX Measure Circular Dependencies
 
-**Waterfall chart direction:** Power BI's waterfall chart defaulted to showing MRR loss values as positive green bars. Resolved by creating a dedicated MRR Loss measure multiplying churned MRR by -1, which correctly rendered the bars as red and descending in line with standard financial reporting conventions.
+When building the Power BI dashboard, measures that referenced other measures returned circular dependency errors and failed to calculate. The measures were created in an order that referenced values not yet defined.
 
-**Scatter plot aggregation:** Power BI aggregated all customer data into two points when building the tenure vs MRR scatter plot. Resolved by adding customer_id to the Details field well to force individual-level plotting.
+**Solution:** Rebuilt all DAX measures in strict dependency order, creating foundational measures like Total Customers and Churned Customers first before creating derived measures like Churn Rate % and Active Customers that depend on them.
 
-**Calculated column for churn labels:** The churned field stored 0 and 1 values which rendered as numbers in chart legends across all visuals. Resolved by creating a Churn Status calculated column using an IF statement to replace binary values with "Active" and "Churned" labels, applied consistently across all three dashboard pages.
+### Challenge 2: Waterfall Chart Showing Losses as Gains
+
+Power BI's waterfall chart rendered MRR loss values as positive green bars pointing upward, which contradicted standard financial reporting conventions where losses should appear as red descending bars.
+
+**Solution:** Created a dedicated MRR Loss DAX measure that multiplies churned MRR by -1. Applying this measure to the waterfall chart correctly rendered all monthly loss bars as red and descending, consistent with financial reporting standards.
+
+### Challenge 3: Scatter Plot Data Aggregation
+
+When building the tenure vs MRR scatter plot, Power BI aggregated all 500 customers into just two data points, one for churned and one for active, instead of plotting individual customer dots.
+
+**Solution:** Added customer_id to the Details field well of the scatter plot visual, which forced Power BI to plot one dot per customer rather than aggregating all values into summary points.
+
+### Challenge 4: Binary Churn Labels Across All Visuals
+
+The churned column stored values of 0 and 1 which rendered as numbers in chart legends and axis labels across every visual on all three dashboard pages, making the charts difficult to read without context.
+
+**Solution:** Created a Churn Status calculated column using a DAX IF statement to replace 0 with Active and 1 with Churned. Applied this column consistently across all three pages, replacing the raw binary field in every relevant visual.
 
 ---
 
