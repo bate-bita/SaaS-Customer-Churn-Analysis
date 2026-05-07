@@ -76,7 +76,7 @@ High-level summary of churn volume, rate, and revenue split. Includes monthly ch
 ![Page 1](Power%20BI%20Screenshots/Churn%20Overview.png)
 
 ### Page 2: Revenue Impact
-Financial deep-dive into MRR loss. Includes total MRR, churned MRR, and active customer KPIs, a monthly MRR loss column chart, churned MRR by customer segment, a monthly MRR loss waterfall chart, and a top 10 churned customers table ranked by revenue.
+Financial deep-dive into MRR loss. Includes total MRR, churned MRR, average MRR lost per customer, and MRR loss rate KPIs, a monthly MRR loss column chart, churned MRR by customer segment, a monthly MRR loss waterfall chart, and a top 10 churned customers table ranked by revenue.
 
 ![Page 2](Power%20BI%20Screenshots/Revenue%20Impact.png)
 
@@ -89,13 +89,14 @@ Segment-level breakdown of churn behavior. Includes NPS comparison between churn
 
 ## Key Business Insights
 
-- PulseHQ's overall churn rate stands at **35.4%**, with 177 of 500 customers lost and **$82.56K in MRR** at risk
-- Basic plan customers churn at **57%** while Enterprise customers churn at only **11%**, a 5x difference driven primarily by product fit and contract commitment
-- Monthly contract customers churn at **52%** versus **13%** for annual customers, suggesting that converting customers to annual contracts during onboarding is a critical retention lever
-- **July recorded the highest single-month churn** at 28 customers, confirming a Q3 churn spike likely tied to mid-year budget reviews
-- Churned customers had an average NPS of **3.24** compared to **6.98** for active customers, making NPS a strong early warning indicator
-- Churned customers raised an average of **5.62 support tickets** vs **2.12** for active customers, indicating that unresolved product issues are a leading driver of churn
-- Small businesses account for **134 churned customers** but only **$40K in MRR lost**, while Enterprise accounts for just **7 churned customers** but **$12.7K in MRR lost per segment**, confirming that enterprise churn is low frequency but high financial impact
+- PulseHQ's overall churn rate stands at **35.4%**, with 177 of 500 customers lost and **$82.56K in MRR** at risk.
+- PulseHQ loses an average of $466 in MRR per churned customer, with an overall MRR loss rate of 18.51%, meaning nearly 1 in 5 dollars of recurring revenue has been lost to churn.
+- Basic plan customers churn at **57%** while Enterprise customers churn at only **11%**, a 5x difference driven primarily by product fit and contract commitment.
+- Monthly contract customers churn at **52%** versus **13%** for annual customers, suggesting that converting customers to annual contracts during onboarding is a critical retention lever.
+- **July recorded the highest single-month churn** at 28 customers, confirming a Q3 churn spike likely tied to mid-year budget reviews.
+- Churned customers had an average NPS of **3.24** compared to **6.98** for active customers, making NPS a strong early warning indicator.
+- Churned customers raised an average of **5.62 support tickets** vs **2.12** for active customers, indicating that unresolved product issues are a leading driver of churn.
+- Small businesses account for **134 churned customers** but only **$40K in MRR lost**, while Enterprise accounts for just **7 churned customers** but **$13K in MRR lost per segment**, confirming that enterprise churn is low frequency but high financial impact per customer.
 
 ---
 
