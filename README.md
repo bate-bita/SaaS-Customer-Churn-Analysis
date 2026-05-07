@@ -130,11 +130,11 @@ The churned column stored values of 0 and 1 which rendered as numbers in chart l
 
 ## Tools and Techniques
 
-**SQL:** SQLite, DB Browser for SQLite, SELECT, WHERE, GROUP BY, ORDER BY, ROUND, COUNT, SUM, AVG, CASE WHEN, CTE (Common Table Expression), RANK() window function
+**SQL:** SQLite, DB Browser for SQLite, SELECT, WHERE, GROUP BY, ORDER BY, ROUND, COUNT, SUM, AVG, CASE WHEN, CTE (Common Table Expression), RANK() window function.
 
-**Power BI:** Power BI Desktop, Power Query, data modeling and table relationships, DAX measures (CALCULATE, DIVIDE, SUM, AVERAGE, COUNTROWS, IF), KPI cards, line chart, bar chart, column chart, donut chart, stacked column chart, waterfall chart, table visual, data labels, custom theme
+**Power BI:** Power BI Desktop, Power Query, data modeling and table relationships, DAX measures (CALCULATE, DIVIDE, SUM, AVERAGE, COUNTROWS, IF), KPI cards, line chart, bar chart, column chart, donut chart, stacked column chart, waterfall chart, table visual, data labels, custom theme.
 
-**Python:** pandas, numpy, sqlite3, datetime, random, reproducible dataset generation with engineered narrative patterns
+**Python:** pandas, numpy, sqlite3, datetime, random, reproducible dataset generation with engineered narrative patterns.
 
 
 
